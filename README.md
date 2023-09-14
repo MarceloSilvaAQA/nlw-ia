@@ -19,3 +19,4 @@ Front-end criado com React e usando TypeScript para algumas integrações.
 # Branch(Back-End) Includes:
 Back-end criado usando Typescript com a inclusão de algumas bibliotecas como: Prisma(Banco de Dados), OpenAI(Inteligência Artificial) entre outros;
 
+![Screenshot from 2023-09-14 02-32-59](https://github.com/MarceloSilvaAQA/nlw-ia/assets/56897949/f7b1c1e1-3a26-41dd-bade-0a450330f524)
